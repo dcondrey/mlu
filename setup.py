@@ -4,11 +4,11 @@ setup(
     name='mlu',
     version='0.1.0',
     author='David Condrey',
-    author_email='david@protonmail.com',
+    author_email='davidcondrey@protonmail.com',
     description='A comprehensive Python machine learning utility application designed to simplify and enhance the machine learning workflow.',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    url='https://github.com/DavidCondrey/mlu',
+    url='https://github.com/dcondrey/mlu',
     packages=find_packages(),
     install_requires=[
         'numpy',
